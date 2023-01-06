@@ -1,0 +1,369 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: B1,Humana Sans Md ITC TT,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Humana Sans Md ITC TT,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Humana Sans Md ITC TT,30,&H00EDEBE8,&H000000FF,&H002F2724,&H96000000,-1,0,0,0,100,120,0,0,1,1.7,0,2,40,40,35,1
+Style: Italics,Humana Sans Md ITC TT,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: AmnesiaMain,Humana Sans Md ITC TT,30,&H00EDEBE8,&H000000FF,&H002F2724,&H96000000,-1,0,0,0,100,120,0,0,1,1.7,0,2,40,40,35,1
+Style: AmnesiaItalic,Humana Sans Md ITC TT,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,1,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: AmnesiaNote,Humana Sans Md ITC TT,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0015,0015,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:28.14,0:02:29.20,AmnesiaMain,VOICE,0000,0000,0000,,Can you hear me?
+Dialogue: 0,0:02:42.18,0:02:44.39,AmnesiaMain,VOICE,0000,0000,0000,,Hey, can you hear me?
+Dialogue: 0,0:02:54.25,0:02:55.25,AmnesiaMain,VOICE,0000,0000,0000,,Can you...
+Dialogue: 0,0:03:00.54,0:03:04.85,AmnesiaMain,GIRL,0000,0000,0000,,August... 4th.
+Dialogue: 0,0:03:06.61,0:03:07.45,AmnesiaMain,ORION,0000,0000,0000,,Hey, you.
+Dialogue: 0,0:03:09.57,0:03:11.96,AmnesiaMain,MAID,0000,0000,0000,,Hey, what's wrong?
+Dialogue: 0,0:03:12.35,0:03:15.16,AmnesiaMain,MAID,0000,0000,0000,,I heard a scream. Are you all right?
+Dialogue: 0,0:03:19.02,0:03:21.29,AmnesiaMain,MAID,0000,0000,0000,,Someone will be coming for you soon.
+Dialogue: 0,0:03:23.76,0:03:24.57,AmnesiaMain,GIRL,0000,0000,0000,,Um...
+Dialogue: 0,0:03:25.93,0:03:26.93,AmnesiaMain,MAID,0000,0000,0000,,Now.
+Dialogue: 0,0:03:27.42,0:03:29.35,AmnesiaMain,MAID,0000,0000,0000,,Be patient and wait.
+Dialogue: 0,0:03:29.86,0:03:32.37,AmnesiaItalic,GIRL,0000,0000,0000,,Who is she?
+Dialogue: 0,0:03:36.32,0:03:40.44,AmnesiaMain,ORION,0000,0000,0000,,I wonder who's coming for you.
+Dialogue: 0,0:03:44.47,0:03:46.70,AmnesiaMain,ORION,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:03:47.17,0:03:49.90,AmnesiaMain,ORION,0000,0000,0000,,You suddenly collapsed, so I was worried.
+Dialogue: 0,0:03:57.59,0:04:00.61,AmnesiaMain,SHIN,0000,0000,0000,,What's all this about you collapsing?
+Dialogue: 0,0:04:04.92,0:04:05.80,AmnesiaItalic,GIRL,0000,0000,0000,,Who is he?
+Dialogue: 0,0:04:09.41,0:04:09.81,AmnesiaMain,SHIN,0000,0000,0000,,Hey,
+Dialogue: 0,0:04:10.53,0:04:12.27,AmnesiaMain,SHIN,0000,0000,0000,,are you really all right?
+Dialogue: 0,0:04:13.49,0:04:17.56,AmnesiaItalic,GIRL,0000,0000,0000,,I don't know this person.
+Dialogue: 0,0:04:18.77,0:04:21.74,AmnesiaMain,SHIN,0000,0000,0000,,I'll walk you home, \Nso hurry up and get ready.
+Dialogue: 0,0:04:24.84,0:04:26.07,AmnesiaMain,SHIN,0000,0000,0000,,At least answer me.
+Dialogue: 0,0:04:27.28,0:04:28.08,AmnesiaMain,GIRL,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:28.38,0:04:29.21,AmnesiaMain,GUY,0000,0000,0000,,Yes?
+Dialogue: 0,0:04:30.54,0:04:32.04,AmnesiaMain,TOOMA,0000,0000,0000,,I heard you collapsed.
+Dialogue: 0,0:04:33.39,0:04:35.73,AmnesiaMain,GUY,0000,0000,0000,,Toma, why are you here, too?
+Dialogue: 0,0:04:35.73,0:04:37.88,AmnesiaMain,TOOMA,0000,0000,0000,,Because Sawa contacted me.
+Dialogue: 0,0:04:39.21,0:04:42.35,AmnesiaMain,TOOMA,0000,0000,0000,,Are you all right? You didn't \Nhit anything, did you?
+Dialogue: 0,0:04:43.08,0:04:45.59,AmnesiaMain,GUY,0000,0000,0000,,What are you spacing out for?
+Dialogue: 0,0:04:46.05,0:04:48.22,AmnesiaMain,GUY,0000,0000,0000,,Are you listening to what we're saying?
+Dialogue: 0,0:04:51.47,0:04:54.11,AmnesiaMain,TOOMA,0000,0000,0000,,Shin, don't pressure her like that.
+Dialogue: 0,0:04:54.11,0:04:56.88,AmnesiaMain,TOOMA,0000,0000,0000,,She just woke up. What do you expect?
+Dialogue: 0,0:04:57.37,0:04:59.39,AmnesiaMain,TOOMA,0000,0000,0000,,I know you're worried.
+Dialogue: 0,0:05:01.11,0:05:04.74,AmnesiaMain,TOOMA,0000,0000,0000,,Now, before we go home,\Nshould we stop by the hospital?
+Dialogue: 0,0:05:07.17,0:05:09.31,AmnesiaMain,SHIIN,0000,0000,0000,,We probably should.
+Dialogue: 0,0:05:09.31,0:05:10.17,AmnesiaMain,GIRL,0000,0000,0000,,Y-Yes.
+Dialogue: 0,0:05:10.17,0:05:11.61,AmnesiaMain,FAIRY,0000,0000,0000,,You can't!
+Dialogue: 0,0:05:12.37,0:05:16.50,AmnesiaMain,FAIRY,0000,0000,0000,,You can't go to the hospital. \NIt'll be a huge hassle.
+Dialogue: 0,0:05:17.64,0:05:20.28,AmnesiaMain,FAIRY,0000,0000,0000,,Just tell them you're sleepy and pretend.
+Dialogue: 0,0:05:21.78,0:05:22.33,AmnesiaMain,GIRL,0000,0000,0000,,Yes.
+Dialogue: 0,0:05:22.33,0:05:24.11,AmnesiaMain,SHIN,0000,0000,0000,,So we're going to the hospital.
+Dialogue: 0,0:05:25.36,0:05:26.51,AmnesiaMain,GIRL,0000,0000,0000,,No.
+Dialogue: 0,0:05:27.69,0:05:28.51,AmnesiaMain,SHIN,0000,0000,0000,,Which is it?
+Dialogue: 0,0:05:28.85,0:05:32.22,AmnesiaMain,GIRL,0000,0000,0000,,I think I'm just tired.
+Dialogue: 0,0:05:32.87,0:05:33.77,AmnesiaMain,GIRL,0000,0000,0000,,I'll go home.
+Dialogue: 0,0:05:34.50,0:05:37.98,AmnesiaMain,SHIN,0000,0000,0000,,If you were so tired you fell over,\Nwhat kind of lifestyle do you lead?
+Dialogue: 0,0:05:37.98,0:05:39.52,AmnesiaMain,SHIN,0000,0000,0000,,You're always—
+Dialogue: 0,0:05:38.17,0:05:39.52,AmnesiaMain,TOOMA,0000,0000,0000,,Now, now.
+Dialogue: 0,0:05:39.52,0:05:42.25,AmnesiaMain,TOOMA,0000,0000,0000,,If that's all it is, we'll take you home.
+Dialogue: 0,0:05:46.62,0:05:48.78,AmnesiaMain,TOOMA,0000,0000,0000,,We're not walking too fast, are we?
+Dialogue: 0,0:05:49.85,0:05:50.75,AmnesiaMain,GIRL,0000,0000,0000,,No.
+Dialogue: 0,0:05:55.37,0:05:56.64,AmnesiaMain,TOOMA,0000,0000,0000,,It's getting cold.
+Dialogue: 0,0:05:56.64,0:06:00.58,AmnesiaMain,SHIN,0000,0000,0000,,It's only August. What's \Ngoing on with this weather?
+Dialogue: 0,0:06:00.58,0:06:02.21,AmnesiaMain,TOOMA,0000,0000,0000,,Just when you think \Nthe wet season's over,
+Dialogue: 0,0:06:02.21,0:06:05.01,AmnesiaMain,TOOMA,0000,0000,0000,,summer has passed you by, and it's fall.
+Dialogue: 0,0:06:06.07,0:06:08.51,AmnesiaMain,TOOMA,0000,0000,0000,,By the way, Shin, what \Nhappened to prep school?
+Dialogue: 0,0:06:08.51,0:06:10.07,AmnesiaMain,SHIN,0000,0000,0000,,I left early.
+Dialogue: 0,0:06:10.07,0:06:13.13,AmnesiaMain,TOOMA,0000,0000,0000,,Is it okay for an exam student to do that?
+Dialogue: 0,0:06:13.13,0:06:15.51,AmnesiaMain,SHIN,0000,0000,0000,,I'm doing what needs to be done, \Neven without you telling me to.
+Dialogue: 0,0:06:15.51,0:06:18.33,AmnesiaMain,TOOMA,0000,0000,0000,,Man, you're such an uncute little brother.
+Dialogue: 0,0:06:18.33,0:06:21.26,AmnesiaMain,SHIN,0000,0000,0000,,I've told you before, \Nyou're not my older brother.
+Dialogue: 0,0:06:21.26,0:06:25.03,AmnesiaMain,TOOMA,0000,0000,0000,,This part of him hasn't changed \Nsince he was a kid, right?
+Dialogue: 0,0:06:26.61,0:06:27.65,AmnesiaMain,TOOMA,0000,0000,0000,,Weren't you listening?
+Dialogue: 0,0:06:29.79,0:06:31.80,AmnesiaItalic,GIRL,0000,0000,0000,,I can't keep up with the conversation.
+Dialogue: 0,0:06:31.80,0:06:36.65,AmnesiaItalic,GIRL,0000,0000,0000,,I'm acquainted with these people, \Nbut I can't remember.
+Dialogue: 0,0:06:34.53,0:06:35.70,AmnesiaMain,SHIN,0000,0000,0000,,{\an8}Hey, I think she...
+Dialogue: 0,0:06:35.70,0:06:38.71,AmnesiaMain,SHIN,0000,0000,0000,,{\an8}Lay off already. \NStop acting like an old woman.
+Dialogue: 0,0:06:38.05,0:06:38.90,AmnesiaItalic,GIRL,0000,0000,0000,,Nothing.
+Dialogue: 0,0:06:38.71,0:06:39.74,AmnesiaMain,TOOMA,0000,0000,0000,,{\an8}Old woman?
+Dialogue: 0,0:06:39.74,0:06:42.11,AmnesiaMain,SHIN,0000,0000,0000,,{\an8}You're meddlesome. Like an old woman.
+Dialogue: 0,0:06:42.11,0:06:43.75,AmnesiaMain,TOOMA,0000,0000,0000,,{\an8}I'm just worried about her.
+Dialogue: 0,0:06:43.75,0:06:45.04,AmnesiaMain,,0000,0000,0000,,{\an8}Besides, you...
+Dialogue: 0,0:06:43.77,0:06:46.92,AmnesiaItalic,GIRL,0000,0000,0000,,There's nothing.
+Dialogue: 0,0:06:45.04,0:06:46.93,AmnesiaMain,,0000,0000,0000,,{\an8}It's none of your business.
+Dialogue: 0,0:06:47.78,0:06:51.27,AmnesiaMain,,0000,0000,0000,,{\an8}Don't blame me if you fail \Nyour exams in spring.
+Dialogue: 0,0:06:48.17,0:06:50.18,AmnesiaItalic,GIRL,0000,0000,0000,,It's not just them.
+Dialogue: 0,0:06:50.18,0:06:52.05,AmnesiaItalic,GIRL,0000,0000,0000,,Who exactly am I?
+Dialogue: 0,0:06:51.27,0:06:52.84,AmnesiaMain,SHIN,0000,0000,0000,,{\an8}That's not gonna happen.
+Dialogue: 0,0:06:54.37,0:06:55.18,AmnesiaMain,SHIN,0000,0000,0000,,Hey.
+Dialogue: 0,0:06:57.98,0:06:59.40,AmnesiaMain,TOOMA,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:07:01.21,0:07:03.02,AmnesiaMain,TOOMA,0000,0000,0000,,This is your house, right?
+Dialogue: 0,0:07:03.02,0:07:04.45,AmnesiaMain,GIRL,0000,0000,0000,,Here?
+Dialogue: 0,0:07:04.45,0:07:06.37,AmnesiaMain,SHIN,0000,0000,0000,,You're way too out of it.
+Dialogue: 0,0:07:06.99,0:07:08.82,AmnesiaMain,TOOMA,0000,0000,0000,,Will you be all right by yourself?
+Dialogue: 0,0:07:10.05,0:07:12.73,AmnesiaMain,TOOMA,0000,0000,0000,,Should we stick around for a little longer?
+Dialogue: 0,0:07:12.73,0:07:15.24,AmnesiaMain,SHIN,0000,0000,0000,,You don't have to baby her that much.
+Dialogue: 0,0:07:15.24,0:07:17.08,AmnesiaMain,TOOMA,0000,0000,0000,,You're too harsh.
+Dialogue: 0,0:07:17.43,0:07:19.00,AmnesiaMain,GIRL,0000,0000,0000,,Um...
+Dialogue: 0,0:07:19.00,0:07:21.39,AmnesiaMain,GIRL,0000,0000,0000,,I'm going to bed as soon as I get in.
+Dialogue: 0,0:07:22.00,0:07:25.00,AmnesiaMain,GIRL,0000,0000,0000,,Thank you both for walking me home.
+Dialogue: 0,0:07:26.57,0:07:28.11,AmnesiaMain,TOOMA,0000,0000,0000,,Are you really all right?
+Dialogue: 0,0:07:28.72,0:07:29.46,AmnesiaMain,GIRL,0000,0000,0000,,Yes.
+Dialogue: 0,0:07:29.46,0:07:30.51,AmnesiaMain,TOOMA,0000,0000,0000,,But...
+Dialogue: 0,0:07:30.51,0:07:32.19,AmnesiaMain,SHIN,0000,0000,0000,,Hey. Let's go.
+Dialogue: 0,0:07:32.81,0:07:34.58,AmnesiaMain,TOOMA,0000,0000,0000,,Don't drag me.
+Dialogue: 0,0:07:34.58,0:07:37.04,AmnesiaMain,TOOMA,0000,0000,0000,,If anything comes up, \Ndon't hesitate to call.
+Dialogue: 0,0:07:38.64,0:07:39.96,AmnesiaMain,TOOMA,0000,0000,0000,,Get some sleep.
+Dialogue: 0,0:07:46.91,0:07:48.51,AmnesiaItalic,GIRL,0000,0000,0000,,What should I do?
+Dialogue: 0,0:07:48.51,0:07:50.03,AmnesiaMain,ORION,0000,0000,0000,,You don't know?
+Dialogue: 0,0:07:51.03,0:07:52.11,AmnesiaMain,ORION,0000,0000,0000,,I thought so.
+Dialogue: 0,0:07:55.42,0:08:00.50,AmnesiaMain,ORION,0000,0000,0000,,You lost all your memories \Nfrom before August 1st.
+Dialogue: 0,0:08:01.27,0:08:02.38,AmnesiaMain,GIRL,0000,0000,0000,,I did?
+Dialogue: 0,0:08:03.18,0:08:05.22,AmnesiaMain,ORION,0000,0000,0000,,I've been with you for four days,
+Dialogue: 0,0:08:05.22,0:08:07.84,AmnesiaMain,ORION,0000,0000,0000,,but you don't know who \NI am anymore, do you?
+Dialogue: 0,0:08:07.84,0:08:09.43,AmnesiaMain,GIRL,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:08:09.43,0:08:11.40,AmnesiaMain,ORION,0000,0000,0000,,You seem to be confused \Nabout a lot of things,
+Dialogue: 0,0:08:11.40,0:08:13.13,AmnesiaMain,ORION,0000,0000,0000,,so I'll explain everything from the start.
+Dialogue: 0,0:08:13.45,0:08:15.90,AmnesiaMain,ORION,0000,0000,0000,,First, let's start with \Nthe introductions.
+Dialogue: 0,0:08:15.90,0:08:17.73,AmnesiaMain,ORION,0000,0000,0000,,My name is Orion.
+Dialogue: 0,0:08:17.73,0:08:22.75,AmnesiaMain,ORION,0000,0000,0000,,I'm a spirit from a world \Nseparate from this one.
+Dialogue: 0,0:08:22.75,0:08:23.92,AmnesiaMain,GIRL,0000,0000,0000,,A spirit?
+Dialogue: 0,0:08:23.92,0:08:24.99,AmnesiaMain,ORION,0000,0000,0000,,That's right.
+Dialogue: 0,0:08:25.43,0:08:28.74,AmnesiaMain,ORION,0000,0000,0000,,Just so you know, only you can see me,
+Dialogue: 0,0:08:28.74,0:08:31.23,AmnesiaMain,ORION,0000,0000,0000,,and my voice can't be \Nheard by others, either.
+Dialogue: 0,0:08:32.67,0:08:37.48,AmnesiaMain,ORION,0000,0000,0000,,What? You're looking at \Nme like I'm an insect.
+Dialogue: 0,0:08:37.48,0:08:39.77,AmnesiaMain,GIRL,0000,0000,0000,,I don't think you're \Nan insect or anything.
+Dialogue: 0,0:08:39.77,0:08:43.68,AmnesiaMain,ORION,0000,0000,0000,,You had the same reaction \Nwhen you first met me.
+Dialogue: 0,0:08:44.61,0:08:45.54,AmnesiaMain,ORION,0000,0000,0000,,That's all right, though.
+Dialogue: 0,0:08:45.80,0:08:49.04,AmnesiaMain,ORION,0000,0000,0000,,So, actually...
+Dialogue: 0,0:08:49.90,0:08:51.31,AmnesiaMain,ORION,0000,0000,0000,,Um...
+Dialogue: 0,0:08:51.31,0:08:55.55,AmnesiaMain,ORION,0000,0000,0000,,Well, actually, it's my fault.
+Dialogue: 0,0:08:55.55,0:08:59.12,AmnesiaMain,ORION,0000,0000,0000,,I mean, why you lost your memories.
+Dialogue: 0,0:08:59.12,0:09:01.64,AmnesiaMain,ORION,0000,0000,0000,,To my surprise, \Nwhen I came to this world,
+Dialogue: 0,0:09:01.64,0:09:05.31,AmnesiaMain,ORION,0000,0000,0000,,I bumped into your spirit, you know?
+Dialogue: 0,0:09:05.31,0:09:07.81,AmnesiaMain,ORION,0000,0000,0000,,It was a real problem for me, too.
+Dialogue: 0,0:09:10.75,0:09:12.20,AmnesiaMain,ORION,0000,0000,0000,,I'm really sorry!
+Dialogue: 0,0:09:13.35,0:09:16.17,AmnesiaMain,GIRL,0000,0000,0000,,What do you mean by that?
+Dialogue: 0,0:09:16.17,0:09:19.44,AmnesiaMain,ORION,0000,0000,0000,,In place of the memories that you lost...
+Dialogue: 0,0:09:20.03,0:09:23.83,AmnesiaMain,ORION,0000,0000,0000,,In other words, I'm trapped in your soul.
+Dialogue: 0,0:09:23.83,0:09:25.90,AmnesiaMain,GIRL,0000,0000,0000,,Wait a second.
+Dialogue: 0,0:09:25.90,0:09:29.77,AmnesiaMain,GIRL,0000,0000,0000,,I don't understand what you're saying.
+Dialogue: 0,0:09:30.24,0:09:33.84,AmnesiaMain,GIRL,0000,0000,0000,,Wait, why can't I go to the hospital?
+Dialogue: 0,0:09:33.84,0:09:36.72,AmnesiaMain,ORION,0000,0000,0000,,Because going to the \Nhospital won't do any good.
+Dialogue: 0,0:09:37.53,0:09:42.93,AmnesiaMain,ORION,0000,0000,0000,,Your memory loss isn't caused by \Ntrouble with your mind or body.
+Dialogue: 0,0:09:42.93,0:09:47.33,AmnesiaMain,ORION,0000,0000,0000,,You have to get it back through memories\Nand interactions shared with others.
+Dialogue: 0,0:09:47.33,0:09:52.12,AmnesiaMain,ORION,0000,0000,0000,,If you're hospitalized instead,\Nand are all alone,
+Dialogue: 0,0:09:52.12,0:09:53.39,AmnesiaMain,ORION,0000,0000,0000,,you can't talk to people...
+Dialogue: 0,0:09:53.39,0:09:56.81,AmnesiaMain,ORION,0000,0000,0000,,and find the connections \Nyou once had with them.
+Dialogue: 0,0:09:56.81,0:09:59.73,AmnesiaMain,ORION,0000,0000,0000,,If that isolation from stimuli continues,
+Dialogue: 0,0:09:59.73,0:10:01.78,AmnesiaMain,ORION,0000,0000,0000,,you'll even forget things \Nlike how to drink water,
+Dialogue: 0,0:10:01.78,0:10:05.16,AmnesiaMain,ORION,0000,0000,0000,,or how to breathe, and you'll break—
+Dialogue: 0,0:10:06.84,0:10:08.72,AmnesiaMain,ORION,0000,0000,0000,,So to make sure that doesn't happen,
+Dialogue: 0,0:10:08.72,0:10:12.88,AmnesiaMain,ORION,0000,0000,0000,,we need to avoid thoughtlessly saying \Nyou have amnesia, and act carefully—
+Dialogue: 0,0:10:12.88,0:10:13.75,AmnesiaMain,GIRL,0000,0000,0000,,But...
+Dialogue: 0,0:10:14.38,0:10:17.59,AmnesiaMain,GIRL,0000,0000,0000,,I still don't understand anything.
+Dialogue: 0,0:10:18.03,0:10:20.98,AmnesiaMain,GIRL,0000,0000,0000,,I can't even remember who I am.
+Dialogue: 0,0:10:21.40,0:10:22.76,AmnesiaMain,ORION,0000,0000,0000,,Sorry.
+Dialogue: 0,0:10:23.23,0:10:25.77,AmnesiaMain,TOOMA,0000,0000,0000,,Is she really all right?
+Dialogue: 0,0:10:27.06,0:10:30.06,AmnesiaMain,TOOMA,0000,0000,0000,,I wonder if she can make the \Ntrip in her current condition.
+Dialogue: 0,0:10:30.59,0:10:33.91,AmnesiaMain,SHIN,0000,0000,0000,,Let's just keep an eye on things for now.
+Dialogue: 0,0:10:34.60,0:10:36.33,AmnesiaMain,SHIN,0000,0000,0000,,I'm counting on you to \Ncover for her at work.
+Dialogue: 0,0:10:36.33,0:10:39.15,AmnesiaMain,TOOMA,0000,0000,0000,,Of course, that's what \NI was planning on doing.
+Dialogue: 0,0:10:39.15,0:10:41.46,AmnesiaMain,ORION,0000,0000,0000,,I wonder if Shin and Toma,
+Dialogue: 0,0:10:41.46,0:10:43.66,AmnesiaMain,ORION,0000,0000,0000,,the two who walked you home, \Nwork at the same place you do.
+Dialogue: 0,0:10:44.17,0:10:48.66,AmnesiaMain,ORION,0000,0000,0000,,They were talking on the way home \Nlike you were childhood friends.
+Dialogue: 0,0:10:48.66,0:10:49.79,AmnesiaMain,GIRL,0000,0000,0000,,You're right.
+Dialogue: 0,0:10:51.19,0:10:54.48,AmnesiaMain,ORION,0000,0000,0000,,But even when they brought up\Nold stories, you didn't respond,
+Dialogue: 0,0:10:54.48,0:10:56.86,AmnesiaMain,ORION,0000,0000,0000,,so I wonder if they suspected something.
+Dialogue: 0,0:10:56.86,0:10:57.67,AmnesiaMain,GIRL,0000,0000,0000,,Yeah.
+Dialogue: 0,0:10:57.67,0:10:59.68,AmnesiaNote,,0000,0000,0000,,{\an7}Shin\NSawa\NToma\NMie\NMeido no Hitsuji
+Dialogue: 0,0:10:58.76,0:11:02.07,AmnesiaMain,GIRL,0000,0000,0000,,This is all the data I have.
+Dialogue: 0,0:11:02.07,0:11:05.25,AmnesiaMain,ORION,0000,0000,0000,,For some reason, all the data \Nbefore now was erased.
+Dialogue: 0,0:11:05.25,0:11:10.44,AmnesiaMain,ORION,0000,0000,0000,,But it was good that your work \Ncontacts were able to be retrieved.
+Dialogue: 0,0:11:10.44,0:11:11.64,AmnesiaMain,GIRL,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:11.64,0:11:13.79,AmnesiaMain,GIRL,0000,0000,0000,,You might be right, but...
+Dialogue: 0,0:11:15.91,0:11:17.01,AmnesiaMain,ORION,0000,0000,0000,,Hey, hey.
+Dialogue: 0,0:11:17.01,0:11:21.57,AmnesiaMain,ORION,0000,0000,0000,,Did anything happen today that might\Ngive you a clue to your lost memories?
+Dialogue: 0,0:11:22.96,0:11:25.98,AmnesiaItalic,GIRL,0000,0000,0000,,Why can't I think of anything?
+Dialogue: 0,0:11:25.98,0:11:29.41,AmnesiaItalic,GIRL,0000,0000,0000,,Can I really get my memories back?
+Dialogue: 0,0:11:29.41,0:11:30.67,AmnesiaMain,ORION,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:11:31.58,0:11:33.03,AmnesiaItalic,GIRL,0000,0000,0000,,Maybe it's impossible.
+Dialogue: 0,0:11:33.03,0:11:34.49,AmnesiaMain,ORION,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:11:36.46,0:11:38.43,AmnesiaMain,ORION,0000,0000,0000,,Can you hear me?
+Dialogue: 0,0:11:39.37,0:11:40.67,AmnesiaMain,GIRL,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:11:41.29,0:11:44.69,AmnesiaMain,ORION,0000,0000,0000,,It's been a tough day, \Nso you must be tired.
+Dialogue: 0,0:11:44.69,0:11:46.73,AmnesiaMain,ORION,0000,0000,0000,,You should go to sleep.
+Dialogue: 0,0:11:47.75,0:11:48.85,AmnesiaMain,GIRL,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:50.61,0:11:56.36,AmnesiaMain,ORION,0000,0000,0000,,I... I'm going to do my best for you, so...
+Dialogue: 0,0:11:58.13,0:11:59.86,AmnesiaMain,ORION,0000,0000,0000,,Good night.
+Dialogue: 0,0:12:02.27,0:12:03.86,AmnesiaMain,GIRL,0000,0000,0000,,Good night.
+Dialogue: 0,0:12:23.21,0:12:25.89,AmnesiaMain,GIRL,0000,0000,0000,,Who am I?
+Dialogue: 0,0:12:45.44,0:12:46.53,AmnesiaMain,ORION,0000,0000,0000,,Good morning.
+Dialogue: 0,0:12:47.62,0:12:48.82,AmnesiaMain,GIRL,0000,0000,0000,,Good morning.
+Dialogue: 0,0:12:48.82,0:12:52.08,AmnesiaMain,ORION,0000,0000,0000,,Are your memories from \Nyesterday still there?
+Dialogue: 0,0:12:52.08,0:12:54.00,AmnesiaMain,GIRL,0000,0000,0000,,Yes. Somehow.
+Dialogue: 0,0:12:54.00,0:12:58.59,AmnesiaMain,ORION,0000,0000,0000,,That's great! So you were \Njust a little confused.
+Dialogue: 0,0:12:59.12,0:13:02.49,AmnesiaMain,ORION,0000,0000,0000,,It seems like your memories \Nwere all mixed up recently,
+Dialogue: 0,0:13:02.49,0:13:04.33,AmnesiaMain,ORION,0000,0000,0000,,but maybe you've finally calmed down.
+Dialogue: 0,0:13:04.33,0:13:05.47,AmnesiaMain,ORION,0000,0000,0000,,I'm really glad!
+Dialogue: 0,0:13:05.86,0:13:09.47,AmnesiaMain,ORION,0000,0000,0000,,If there's anything that troubles \Nyou, you can talk to me.
+Dialogue: 0,0:13:09.78,0:13:12.86,AmnesiaMain,ORION,0000,0000,0000,,From your perspective, \Nyou're surrounded by strangers,
+Dialogue: 0,0:13:12.86,0:13:17.06,AmnesiaMain,ORION,0000,0000,0000,,and it must be scary not knowing \Nwho you can trust.
+Dialogue: 0,0:13:17.06,0:13:17.98,AmnesiaMain,ORION,0000,0000,0000,,But...
+Dialogue: 0,0:13:19.77,0:13:23.19,AmnesiaMain,ORION,0000,0000,0000,,But in order to get your memories back,
+Dialogue: 0,0:13:23.19,0:13:25.17,AmnesiaMain,ORION,0000,0000,0000,,I'll support you with all my strength.
+Dialogue: 0,0:13:25.98,0:13:28.78,AmnesiaMain,ORION,0000,0000,0000,,So, let's do our best together!
+Dialogue: 0,0:13:30.68,0:13:31.46,AmnesiaMain,GIRL,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:33.16,0:13:35.19,AmnesiaMain,GIRL,0000,0000,0000,,Thank you, Orion.
+Dialogue: 0,0:13:36.97,0:13:39.54,AmnesiaMain,ORION,0000,0000,0000,,You called me by my name \Nfor the first time!
+Dialogue: 0,0:13:41.30,0:13:45.05,AmnesiaMain,ORION,0000,0000,0000,,But this isn't the time for idle chat!
+Dialogue: 0,0:13:45.05,0:13:48.03,AmnesiaMain,ORION,0000,0000,0000,,If we don't hurry, you'll be late for work!
+Dialogue: 0,0:13:49.86,0:13:52.52,AmnesiaMain,IKKI,0000,0000,0000,,I have to go now. Sorry.
+Dialogue: 0,0:13:53.06,0:13:56.15,AmnesiaMain,GIRL,0000,0000,0000,,Ikki! I'm coming to your café again today!
+Dialogue: 0,0:13:56.15,0:13:57.03,AmnesiaMain,IKKI,0000,0000,0000,,Thank you.
+Dialogue: 0,0:13:58.95,0:14:00.06,AmnesiaMain,GIRL,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:14:01.33,0:14:04.75,AmnesiaMain,MANAGER,0000,0000,0000,,Good morning, everyone.
+Dialogue: 0,0:14:05.28,0:14:08.02,AmnesiaMain,MANAGER,0000,0000,0000,,Let's put some energy into \Nour work again today.
+Dialogue: 0,0:14:09.07,0:14:12.47,AmnesiaMain,MANAGER,0000,0000,0000,,Recently, there have been some\Ncustomers who have been
+Dialogue: 0,0:14:12.47,0:14:15.29,AmnesiaMain,MANAGER,0000,0000,0000,,exceedingly rude to our female staff.
+Dialogue: 0,0:14:15.29,0:14:18.93,AmnesiaMain,MANAGER,0000,0000,0000,,If anyone like that comes again today,
+Dialogue: 0,0:14:18.93,0:14:21.17,AmnesiaMain,MANAGER,0000,0000,0000,,please inform me immediately.
+Dialogue: 0,0:14:21.17,0:14:22.46,AmnesiaMain,GIRL,0000,0000,0000,,I understand.
+Dialogue: 0,0:14:22.46,0:14:25.31,AmnesiaMain,GUY,0000,0000,0000,,Worst case, I will murder \Nthem with my own hands.
+Dialogue: 0,0:14:24.25,0:14:26.17,AmnesiaMain,FAIRY,0000,0000,0000,,{\an8}Wh-What did he just say?
+Dialogue: 0,0:14:26.49,0:14:28.17,AmnesiaMain,FAIRY,0000,0000,0000,,What's he going to do with his hands?
+Dialogue: 0,0:14:28.17,0:14:30.89,AmnesiaMain,GUY,0000,0000,0000,,That is all for today's meeting.
+Dialogue: 0,0:14:30.89,0:14:34.18,AmnesiaMain,GUY,0000,0000,0000,,Please fulfill your professional \Nduties again today.
+Dialogue: 0,0:14:34.18,0:14:34.89,AmnesiaMain,BOTH,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:35.33,0:14:37.95,AmnesiaMain,FAIRY,0000,0000,0000,,He's a strange manager, isn't he?
+Dialogue: 0,0:14:38.89,0:14:40.15,AmnesiaMain,IKKI,0000,0000,0000,,Hey.
+Dialogue: 0,0:14:40.75,0:14:42.67,AmnesiaMain,IKKI,0000,0000,0000,,Are you all right to come back?
+Dialogue: 0,0:14:43.12,0:14:43.82,AmnesiaMain,GIRL,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:43.82,0:14:44.61,AmnesiaMain,IKKI,0000,0000,0000,,Really?
+Dialogue: 0,0:14:45.39,0:14:46.58,AmnesiaMain,IKKI,0000,0000,0000,,I'm glad.
+Dialogue: 0,0:14:48.62,0:14:51.04,AmnesiaMain,GIRL,0000,0000,0000,,Thank you very much...
+Dialogue: 0,0:14:55.04,0:14:56.20,AmnesiaMain,GIRL,0000,0000,0000,,Is something...
+Dialogue: 0,0:15:01.64,0:15:02.84,AmnesiaMain,MANAGER,0000,0000,0000,,It's time to open.
+Dialogue: 0,0:15:02.84,0:15:05.11,AmnesiaMain,MANAGER,0000,0000,0000,,Ikki-kun, do you have a moment?
+Dialogue: 0,0:15:05.11,0:15:05.85,AmnesiaMain,IKKI,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:06.99,0:15:08.52,AmnesiaMain,IKKI,0000,0000,0000,,Let's do our best today, as well.
+Dialogue: 0,0:15:08.52,0:15:09.38,AmnesiaMain,GIRL,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:10.56,0:15:12.83,AmnesiaMain,ORION,0000,0000,0000,,So he's named Ikki.
+Dialogue: 0,0:15:12.83,0:15:15.51,AmnesiaMain,ORION,0000,0000,0000,,Good-looking guy, but kind of shady.
+Dialogue: 0,0:15:15.51,0:15:18.65,AmnesiaMain,ORION,0000,0000,0000,,He was looking at you oddly just now.
+Dialogue: 0,0:15:16.36,0:15:17.85,AmnesiaMain,IKKI,0000,0000,0000,,{\an8}What is it, manager?
+Dialogue: 0,0:15:17.85,0:15:19.67,AmnesiaMain,MANAGER,0000,0000,0000,,{\an8}I'll be stepping out for a while.
+Dialogue: 0,0:15:18.65,0:15:20.52,AmnesiaMain,GIRL,0000,0000,0000,,Do you think so?
+Dialogue: 0,0:15:19.67,0:15:20.52,AmnesiaMain,IKKI,0000,0000,0000,,{\an8}I understand.
+Dialogue: 0,0:15:23.70,0:15:25.23,AmnesiaMain,GIRL,0000,0000,0000,,Welcome.
+Dialogue: 0,0:15:26.73,0:15:28.40,AmnesiaMain,ORION,0000,0000,0000,,No, that's not right!
+Dialogue: 0,0:15:28.92,0:15:32.20,AmnesiaMain,ORION,0000,0000,0000,,You have to say, \N"Welcome back, masters."
+Dialogue: 0,0:15:33.09,0:15:35.66,AmnesiaMain,ORION,0000,0000,0000,,The manager is looking over here. Hurry.
+Dialogue: 0,0:15:36.00,0:15:39.29,AmnesiaMain,GIRL,0000,0000,0000,,Welcome back, masters.
+Dialogue: 0,0:15:48.25,0:15:50.95,AmnesiaMain,CUSTOMER,0000,0000,0000,,The maid's handmade parfait, please.
+Dialogue: 0,0:15:50.95,0:15:53.99,AmnesiaMain,CUSTOMER,0000,0000,0000,,I'll have a large mille-feuille \Nand a Darjeeling tea.
+Dialogue: 0,0:15:53.99,0:15:57.06,AmnesiaMain,GIRL,0000,0000,0000,,Certainly, masters.
+Dialogue: 0,0:15:57.06,0:16:00.74,AmnesiaMain,IKKI,0000,0000,0000,,I'll take care of the tea and cake.
+Dialogue: 0,0:16:00.74,0:16:03.87,AmnesiaMain,GIRL,0000,0000,0000,,Yes. I'll leave it to you.
+Dialogue: 0,0:16:06.06,0:16:09.21,AmnesiaMain,IKKI,0000,0000,0000,,Isn't the parfait your responsibility?
+Dialogue: 0,0:16:09.21,0:16:12.99,AmnesiaMain,IKKI,0000,0000,0000,,It is called the maid's handmade, after all.
+Dialogue: 0,0:16:14.01,0:16:14.95,AmnesiaMain,GIRL,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:16:15.44,0:16:19.20,AmnesiaItalic,GIRL,0000,0000,0000,,What should I do? I don't \Nknow how to make a parfait.
+Dialogue: 0,0:16:19.20,0:16:21.96,AmnesiaMain,ORION,0000,0000,0000,,Oh, no! An order she can't handle already!
+Dialogue: 0,0:16:22.46,0:16:24.09,AmnesiaMain,,0000,0000,0000,,Um...
+Dialogue: 0,0:16:25.36,0:16:27.59,AmnesiaMain,IKKI,0000,0000,0000,,What are you looking for?
+Dialogue: 0,0:16:27.89,0:16:30.34,AmnesiaMain,IKKI,0000,0000,0000,,Don't tell me you've \Nforgotten how to make it.
+Dialogue: 0,0:16:30.34,0:16:33.16,AmnesiaMain,ORION,0000,0000,0000,,Crap, I think he's suspicious.
+Dialogue: 0,0:16:30.84,0:16:32.24,AmnesiaMain,ORION,0000,0000,0000,,Um, I...
+Dialogue: 0,0:16:33.16,0:16:34.77,AmnesiaMain,IKKI,0000,0000,0000,,Place the flakes into the glass.
+Dialogue: 0,0:16:34.77,0:16:36.88,AmnesiaMain,IKKI,0000,0000,0000,,Then fresh cream on top.
+Dialogue: 0,0:16:36.88,0:16:39.97,AmnesiaMain,IKKI,0000,0000,0000,,Then arrange the fruit \Nand add the ice cream.
+Dialogue: 0,0:16:39.97,0:16:43.54,AmnesiaItalic,IKKI,0000,0000,0000,,And then chocolate on top.
+Dialogue: 0,0:16:43.54,0:16:45.62,AmnesiaItalic,IKKI,0000,0000,0000,,And it's done.
+Dialogue: 0,0:16:47.59,0:16:49.36,AmnesiaItalic,GIRL,0000,0000,0000,,What was that?
+Dialogue: 0,0:16:49.36,0:16:51.36,AmnesiaMain,IKKI,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:16:54.70,0:16:55.95,AmnesiaMain,GIRL,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:16:59.45,0:17:01.02,AmnesiaMain,IKKI,0000,0000,0000,,Come with me.
+Dialogue: 0,0:17:01.02,0:17:01.92,AmnesiaMain,IKKI,0000,0000,0000,,This way.
+Dialogue: 0,0:17:06.89,0:17:08.00,AmnesiaMain,IKKI,0000,0000,0000,,Does it hurt?
+Dialogue: 0,0:17:08.00,0:17:11.46,AmnesiaMain,IKKI,0000,0000,0000,,But if you tape it tightly, \Nthe bleeding will stop.
+Dialogue: 0,0:17:11.46,0:17:13.50,AmnesiaMain,IKKI,0000,0000,0000,,Loosen it after a little bit.
+Dialogue: 0,0:17:14.23,0:17:15.07,AmnesiaMain,GIRL,0000,0000,0000,,All right.
+Dialogue: 0,0:17:18.85,0:17:21.29,AmnesiaMain,IKKI,0000,0000,0000,,It doesn't work on you, does it?
+Dialogue: 0,0:17:22.30,0:17:25.10,AmnesiaMain,ORION,0000,0000,0000,,He was staring at you before, too.
+Dialogue: 0,0:17:27.30,0:17:28.46,AmnesiaMain,IKKI,0000,0000,0000,,Hey, Ken.
+Dialogue: 0,0:17:28.46,0:17:29.40,AmnesiaMain,KEN,0000,0000,0000,,Good morning.
+Dialogue: 0,0:17:29.83,0:17:31.38,AmnesiaMain,GIRL,0000,0000,0000,,Good morning.
+Dialogue: 0,0:17:32.12,0:17:34.56,AmnesiaMain,IKKI,0000,0000,0000,,I'm going back to work, \Nis that all right?
+Dialogue: 0,0:17:34.56,0:17:35.31,AmnesiaMain,GIRL,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:35.31,0:17:36.91,AmnesiaMain,GIRL,0000,0000,0000,,Thank you.
+Dialogue: 0,0:17:37.93,0:17:38.93,AmnesiaMain,IKKI,0000,0000,0000,,See you.
+Dialogue: 0,0:17:41.66,0:17:44.44,AmnesiaMain,GIRL,0000,0000,0000,,Sorry to make you help me.
+Dialogue: 0,0:17:44.88,0:17:48.49,AmnesiaMain,KEN,0000,0000,0000,,Were you the one who induced the \NPauli effect on those glasses?
+Dialogue: 0,0:17:48.49,0:17:49.67,AmnesiaMain,GIRL,0000,0000,0000,,Pau...?
+Dialogue: 0,0:17:49.98,0:17:51.64,AmnesiaMain,KEN,0000,0000,0000,,The Pauli effect.
+Dialogue: 0,0:17:51.64,0:17:56.98,AmnesiaMain,KEN,0000,0000,0000,,The theoretical physicist Wolfgang Pauli was \Nclumsy and often broke equipment.
+Dialogue: 0,0:17:56.98,0:18:02.23,AmnesiaMain,KEN,0000,0000,0000,,Apparently, he would sometimes break \Ntools just by touching or being near them.
+Dialogue: 0,0:18:02.23,0:18:05.72,AmnesiaMain,KEN,0000,0000,0000,,Because he broke things so often, \Nhis colleagues teased him,
+Dialogue: 0,0:18:05.72,0:18:08.79,AmnesiaMain,KEN,0000,0000,0000,,saying it was due to a mysterious power.
+Dialogue: 0,0:18:08.79,0:18:11.12,AmnesiaMain,KEN,0000,0000,0000,,That is the origin of the Pauli effect.
+Dialogue: 0,0:18:11.12,0:18:14.12,AmnesiaMain,KEN,0000,0000,0000,,In other words, you are clumsy like Pauli.
+Dialogue: 0,0:18:14.12,0:18:14.94,AmnesiaMain,ORION,0000,0000,0000,,That took forever!
+Dialogue: 0,0:18:15.24,0:18:17.58,AmnesiaMain,ORION,0000,0000,0000,,And way too indirect.
+Dialogue: 0,0:18:17.58,0:18:20.60,AmnesiaMain,KEN,0000,0000,0000,,Furthermore, working \Nwith an injured finger...
+Dialogue: 0,0:18:20.60,0:18:23.85,AmnesiaMain,KEN,0000,0000,0000,,can lead to a bacterial infection.
+Dialogue: 0,0:18:23.85,0:18:25.91,AmnesiaMain,KEN,0000,0000,0000,,Perhaps you should go home for today.
+Dialogue: 0,0:18:26.37,0:18:28.73,AmnesiaMain,GIRL,0000,0000,0000,,That's...
+Dialogue: 0,0:18:29.14,0:18:31.34,AmnesiaMain,ORION,0000,0000,0000,,We'd like to keep looking, right?
+Dialogue: 0,0:18:31.34,0:18:33.42,AmnesiaMain,ORION,0000,0000,0000,,Make up a reason to stay.
+Dialogue: 0,0:18:35.85,0:18:39.43,AmnesiaMain,GIRL,0000,0000,0000,,Um... Uh...
+Dialogue: 0,0:18:40.49,0:18:47.41,AmnesiaMain,GIRL,0000,0000,0000,,It's really not a bad injury, \Nand I'd like to stay...
+Dialogue: 0,0:18:47.41,0:18:49.93,AmnesiaMain,GIRL,0000,0000,0000,,Yeah, and I've had plenty of rest...
+Dialogue: 0,0:18:49.93,0:18:52.49,AmnesiaMain,GIRL,0000,0000,0000,,But I'm still no good.
+Dialogue: 0,0:18:52.49,0:18:55.21,AmnesiaMain,GIRL,0000,0000,0000,,I'd like to get more used to this... So...
+Dialogue: 0,0:18:55.21,0:18:57.89,AmnesiaMain,GIRL,0000,0000,0000,,Um, I'm an inconvenience, aren't I?
+Dialogue: 0,0:18:57.89,0:18:59.69,AmnesiaMain,GIRL,0000,0000,0000,,So I'll...
+Dialogue: 0,0:18:59.69,0:19:00.70,AmnesiaMain,KEN,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:19:01.16,0:19:05.50,AmnesiaMain,KEN,0000,0000,0000,,Could you say what you're \Ntrying to say more logically?
+Dialogue: 0,0:19:06.14,0:19:11.41,AmnesiaMain,GIRL,0000,0000,0000,,If I could, I'd rather not leave early.
+Dialogue: 0,0:19:14.35,0:19:16.29,AmnesiaItalic,GIRL,0000,0000,0000,,Did I make him angry?
+Dialogue: 0,0:19:17.90,0:19:21.60,AmnesiaMain,ORION,0000,0000,0000,,His face is so inexpressive,\NI have no idea what he's thinking.
+Dialogue: 0,0:19:21.60,0:19:22.98,AmnesiaMain,GIRL,0000,0000,0000,,Um... You see, I...
+Dialogue: 0,0:19:22.98,0:19:23.72,AmnesiaMain,KEN,0000,0000,0000,,I understand.
+Dialogue: 0,0:19:24.23,0:19:28.33,AmnesiaMain,KEN,0000,0000,0000,,You want to become more \Nused to your job, right?
+Dialogue: 0,0:19:28.33,0:19:31.23,AmnesiaMain,KEN,0000,0000,0000,,Then we will back you up.
+Dialogue: 0,0:19:32.35,0:19:35.20,AmnesiaMain,KEN,0000,0000,0000,,I'll explain the situation \Nto the manager.
+Dialogue: 0,0:19:35.20,0:19:37.30,AmnesiaMain,KEN,0000,0000,0000,,With that intuitive explanation of yours,
+Dialogue: 0,0:19:37.30,0:19:39.94,AmnesiaMain,KEN,0000,0000,0000,,I fear he won't understand.
+Dialogue: 0,0:19:39.94,0:19:41.74,AmnesiaMain,GIRL,0000,0000,0000,,Please.
+Dialogue: 0,0:19:43.27,0:19:45.32,AmnesiaMain,ORION,0000,0000,0000,,Could he have been quiet because he...
+Dialogue: 0,0:19:45.32,0:19:48.49,AmnesiaMain,ORION,0000,0000,0000,,was trying to understand \Nwhat you were saying?
+Dialogue: 0,0:19:50.00,0:19:51.00,AmnesiaMain,MANAGER,0000,0000,0000,,I see.
+Dialogue: 0,0:19:52.00,0:19:53.63,AmnesiaMain,MANAGER,0000,0000,0000,,If that's the case...
+Dialogue: 0,0:19:54.37,0:19:56.50,AmnesiaMain,GIRL,0000,0000,0000,,Thank you.
+Dialogue: 0,0:19:58.34,0:20:01.01,AmnesiaMain,IKKI,0000,0000,0000,,Welcome back, milady.
+Dialogue: 0,0:20:13.02,0:20:14.60,AmnesiaMain,IKKI,0000,0000,0000,,That was a close call, wasn't it?
+Dialogue: 0,0:20:14.87,0:20:16.94,AmnesiaMain,GIRL,0000,0000,0000,,S-Sorry.
+Dialogue: 0,0:20:17.35,0:20:18.82,AmnesiaMain,IKKI,0000,0000,0000,,Be careful.
+Dialogue: 0,0:20:18.82,0:20:20.07,AmnesiaMain,GIRL,0000,0000,0000,,Right.
+Dialogue: 0,0:20:36.93,0:20:39.84,AmnesiaMain,BOTH,0000,0000,0000,,Take care, master.
+Dialogue: 0,0:20:45.42,0:20:47.16,AmnesiaMain,ORION,0000,0000,0000,,You worked hard today.
+Dialogue: 0,0:20:47.16,0:20:48.26,AmnesiaMain,GIRL,0000,0000,0000,,Thank you.
+Dialogue: 0,0:20:48.26,0:20:52.12,AmnesiaMain,ORION,0000,0000,0000,,Towards the end, \Nyou were doing pretty well.
+Dialogue: 0,0:20:52.12,0:20:53.35,AmnesiaMain,GIRL,0000,0000,0000,,Do you think so?
+Dialogue: 0,0:20:53.68,0:20:55.52,AmnesiaMain,ORION,0000,0000,0000,,Let's work hard tomorrow, too.
+Dialogue: 0,0:20:55.94,0:20:56.79,AmnesiaMain,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:00.86,0:21:02.36,AmnesiaMain,GIRL,0000,0000,0000,,Is this...
+Dialogue: 0,0:21:02.36,0:21:03.77,AmnesiaMain,GIRL,0000,0000,0000,,...me?
+Dialogue: 0,0:21:04.99,0:21:06.41,AmnesiaMain,GIRL,0000,0000,0000,,You're an eyesore.
+Dialogue: 0,0:21:06.41,0:21:08.00,AmnesiaMain,GIRL,0000,0000,0000,,A backstabber.
+Dialogue: 0,0:21:09.86,0:21:10.62,AmnesiaMain,GIRL,0000,0000,0000,,You...
+Dialogue: 0,0:21:11.37,0:21:13.27,AmnesiaMain,GIRL,0000,0000,0000,,broke your promise, didn't you?
+Dialogue: 0,0:23:26.99,0:23:29.21,AmnesiaMain,ORION,0000,0000,0000,,Do you know what "Meido no Hitsuji" means?
+Dialogue: 0,0:23:29.21,0:23:30.97,AmnesiaMain,ORION,0000,0000,0000,,"Meido" means underworld, \Nthe realm of Pluto,
+Dialogue: 0,0:23:29.21,0:23:33.68,AmnesiaNote,ORION,0000,0000,0000,,["Meido no Hitsuji" ryhmes with "meido to \Nshitsuji," meaning maids and butlers.]
+Dialogue: 0,0:23:30.97,0:23:33.68,AmnesiaMain,ORION,0000,0000,0000,,and "hitsuji" means sheep; \Nhence, "Pluto's Sheep."
+Dialogue: 0,0:23:33.68,0:23:37.12,AmnesiaMain,ORION,0000,0000,0000,,Even so, the maid's handmade parfait \Nlooked delicious, didn't it?
+Dialogue: 0,0:23:37.12,0:23:40.51,AmnesiaMain,ORION,0000,0000,0000,,I wish I could eat your handmade parfait.
